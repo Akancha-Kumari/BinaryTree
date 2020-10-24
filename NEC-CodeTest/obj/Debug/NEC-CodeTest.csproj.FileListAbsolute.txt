@@ -1,0 +1,6 @@
+D:\Akancha\Visual Studio\NEC-CodeTest\NEC-CodeTest\bin\Debug\NEC-CodeTest.exe.config
+D:\Akancha\Visual Studio\NEC-CodeTest\NEC-CodeTest\bin\Debug\NEC-CodeTest.exe
+D:\Akancha\Visual Studio\NEC-CodeTest\NEC-CodeTest\bin\Debug\NEC-CodeTest.pdb
+D:\Akancha\Visual Studio\NEC-CodeTest\NEC-CodeTest\obj\Debug\NEC-CodeTest.csprojAssemblyReference.cache
+D:\Akancha\Visual Studio\NEC-CodeTest\NEC-CodeTest\obj\Debug\NEC-CodeTest.exe
+D:\Akancha\Visual Studio\NEC-CodeTest\NEC-CodeTest\obj\Debug\NEC-CodeTest.pdb
